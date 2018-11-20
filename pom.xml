@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://nexusserver.com:8081/repository/8project/</url>
+            <url>http://nexusserver.com:8081/repository/without_jenkins/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
